@@ -47,6 +47,4 @@ cv2.destroyAllWindows()
 ```
 
 El resultado `src` es el siguiente para nuestra imagen de prueba `test.jpg`:
-<img src="https://github.com/carlosjulioph/Line-Segment-Detection-LSD/blob/main/Imágenes_Readme/Resultado.png" width="700">
-
-![[Line-Segment-Detection-LSD/Resultado.png at main · carlosjulioph/Line-Segment-Detection-LSD (github.com)](https://github.com/carlosjulioph/Line-Segment-Detection-LSD/blob/main/Imágenes_Readme/Resultado.png)]()
+<img src="https://github.com/carlosjulioph/Line-Segment-Detection-LSD/blob/main/Imágenes_Readme/Resultado.png" width="400">
